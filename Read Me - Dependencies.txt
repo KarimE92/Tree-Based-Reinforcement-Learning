@@ -1,0 +1,8 @@
+The Code used in Tasks 1 and 2 have the following dependencies:
+gym
+numpy
+matplotlib.pyplot
+scipy.stats
+timeit
+
+For matplotlib closing out of the graph window will allow the rest of the program to continue running
